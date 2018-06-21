@@ -3,7 +3,6 @@
 
 # images folders 
 /errorShots
-/screenshots
 
 npm-debug.log*
 yarn-debug.log*
